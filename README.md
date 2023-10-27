@@ -1,11 +1,11 @@
 # KSDrafter
-Logo Grids with KSDrafter Free Version
+Logo Grids with KSDrafter™ Free Version
 
 MIT License with Author Details for KSDrafter
 
 Copyright (c) 2023 KSDrafter
 
-Product Name: KSDrafter Free Version
+Product Name: KSDrafter™ Free Version
 Author: Kanhaiya Sharma
 Contact Information:
 - Email: 0xKanha@gmail.com

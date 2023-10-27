@@ -1,4 +1,4 @@
-# KSDrafter
+# KSDrafter Free Version
 Logo Grids with KSDrafter™ Free Version
 
 MIT License with Author Details for KSDrafter

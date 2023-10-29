@@ -1,12 +1,6 @@
 # KSDrafter Free Version
 Free Logo Grids with KSDrafter™  
 
-![alt text](https://github.com/ikanhaiyasharma/KSDrafter/blob/main/KSD.jpg?raw=true)
-
-Windows Installation: https://youtu.be/pqBks3YfCdo
-
-
-
 MIT License with Author Details for KSDrafter
 
 Copyright (c) 2023 KSDrafter
@@ -27,3 +21,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+![alt text](https://github.com/ikanhaiyasharma/KSDrafter/blob/main/KSD.jpg?raw=true)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+Windows Installation: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pqBks3YfCdo/0.jpg)](https://www.youtube.com/watch?v=pqBks3YfCdo)
+

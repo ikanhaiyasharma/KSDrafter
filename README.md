@@ -1,6 +1,8 @@
 # KSDrafter Free Version
 Free Logo Grids with KSDrafter™  
 
+![alt text](https://github.com/ikanhaiyasharma/KSDrafter/blob/main/KSD.jpg?raw=true)
+
 Windows Installation: https://youtu.be/pqBks3YfCdo
 
 

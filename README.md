@@ -26,7 +26,6 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ![alt text](https://github.com/ikanhaiyasharma/KSDrafter/blob/main/KSD.jpg?raw=true)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-Windows Installation: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pqBks3YfCdo/0.jpg)](https://www.youtube.com/watch?v=pqBks3YfCdo)
+Windows Installation: 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pqBks3YfCdo/0.jpg)](https://www.youtube.com/watch?v=pqBks3YfCdo)
 

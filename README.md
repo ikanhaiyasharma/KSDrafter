@@ -1,6 +1,9 @@
 # KSDrafter Free Version
 Logo Grids with KSDrafter™ Free Version
 
+Windows Installation:
+https://youtu.be/pqBks3YfCdo
+
 MIT License with Author Details for KSDrafter
 
 Copyright (c) 2023 KSDrafter
